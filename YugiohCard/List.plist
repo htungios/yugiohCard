@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Blue Eyes White Dragon</string>
+		<key>cs</key>
+		<string>3000 - 2500</string>
+		<key>photo</key>
+		<string>BlueEyesWhiteDragon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dark Magician</string>
+		<key>cs</key>
+		<string>2500 - 2100</string>
+		<key>photo</key>
+		<string>DarkMagician</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Exodia The Forbidden</string>
+		<key>cs</key>
+		<string>??? - ???</string>
+		<key>photo</key>
+		<string>ExodiaTheForbidden</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Harpie Lady</string>
+		<key>cs</key>
+		<string>1300 - 1400</string>
+		<key>photo</key>
+		<string>HarpieLady</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Obelisk The Tormentor</string>
+		<key>cs</key>
+		<string>4000 - 4000</string>
+		<key>photo</key>
+		<string>ObeliskTheTormentor</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Red Eyes Black Dragon</string>
+		<key>cs</key>
+		<string>2400 - 2000</string>
+		<key>photo</key>
+		<string>RedEyesBlackDragon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Slifer The Sky Dragon</string>
+		<key>cs</key>
+		<string>??? - ???</string>
+		<key>photo</key>
+		<string>SliferTheSkyDragon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Winged Dragon Of Ra</string>
+		<key>cs</key>
+		<string>??? - ???</string>
+		<key>photo</key>
+		<string>TheWingedDragonOfRa</string>
+	</dict>
+</array>
+</plist>

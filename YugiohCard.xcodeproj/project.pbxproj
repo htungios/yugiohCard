@@ -7,25 +7,75 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A614B3EE1C0599AC00CB77E6 /* tableViewCard.m in Sources */ = {isa = PBXBuildFile; fileRef = A614B3ED1C0599AC00CB77E6 /* tableViewCard.m */; settings = {ASSET_TAGS = (); }; };
+		A614B3F11C059CEF00CB77E6 /* DetailCard.m in Sources */ = {isa = PBXBuildFile; fileRef = A614B3F01C059CEF00CB77E6 /* DetailCard.m */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADBA1C0312A2005508CB /* darkmagician0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADB21C0312A2005508CB /* darkmagician0.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADBB1C0312A2005508CB /* blueeyeswhitedragon0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADB31C0312A2005508CB /* blueeyeswhitedragon0.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADBC1C0312A2005508CB /* redeyesblackdragon0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADB41C0312A2005508CB /* redeyesblackdragon0.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADBD1C0312A2005508CB /* thewingeddragonofra0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADB51C0312A2005508CB /* thewingeddragonofra0.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADBE1C0312A2005508CB /* obeliskthetormentor0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADB61C0312A2005508CB /* obeliskthetormentor0.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADBF1C0312A2005508CB /* slifertheskydragon0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADB71C0312A2005508CB /* slifertheskydragon0.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADC01C0312A2005508CB /* exodiatheforbidden0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADB81C0312A2005508CB /* exodiatheforbidden0.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADC11C0312A2005508CB /* harpielady0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADB91C0312A2005508CB /* harpielady0.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADCB1C031304005508CB /* darkmagician.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADC31C031304005508CB /* darkmagician.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADCC1C031304005508CB /* thewingeddragonofra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADC41C031304005508CB /* thewingeddragonofra.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADCD1C031304005508CB /* obeliskthetormentor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADC51C031304005508CB /* obeliskthetormentor.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADCE1C031304005508CB /* harpielady.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADC61C031304005508CB /* harpielady.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADCF1C031304005508CB /* blueeyeswhitedragon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADC71C031304005508CB /* blueeyeswhitedragon.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADD01C031304005508CB /* exodiatheforbidden.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADC81C031304005508CB /* exodiatheforbidden.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADD11C031304005508CB /* redeyesblackdragon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADC91C031304005508CB /* redeyesblackdragon.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6D1ADD21C031304005508CB /* slifertheskydragon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D1ADCA1C031304005508CB /* slifertheskydragon.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6DB9F831C04011D00CEBCA8 /* Datamanager.m in Sources */ = {isa = PBXBuildFile; fileRef = A6DB9F821C04011D00CEBCA8 /* Datamanager.m */; settings = {ASSET_TAGS = (); }; };
+		A6DB9F851C04137900CEBCA8 /* Yugioh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6DB9F841C04137900CEBCA8 /* Yugioh.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6DB9F871C04156900CEBCA8 /* game.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6DB9F861C04156900CEBCA8 /* game.jpg */; settings = {ASSET_TAGS = (); }; };
+		A6F7E6D21C041EB500719C52 /* ScrollImages.m in Sources */ = {isa = PBXBuildFile; fileRef = A6F7E6D11C041EB500719C52 /* ScrollImages.m */; settings = {ASSET_TAGS = (); }; };
 		A6FC16131C0305D6004A8FD6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A6FC16121C0305D6004A8FD6 /* main.m */; };
 		A6FC16161C0305D6004A8FD6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A6FC16151C0305D6004A8FD6 /* AppDelegate.m */; };
-		A6FC16191C0305D6004A8FD6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6FC16181C0305D6004A8FD6 /* ViewController.m */; };
 		A6FC161C1C0305D6004A8FD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6FC161A1C0305D6004A8FD6 /* Main.storyboard */; };
 		A6FC161E1C0305D6004A8FD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6FC161D1C0305D6004A8FD6 /* Assets.xcassets */; };
 		A6FC16211C0305D6004A8FD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6FC161F1C0305D6004A8FD6 /* LaunchScreen.storyboard */; };
+		A6FC162B1C0306A7004A8FD6 /* Character.m in Sources */ = {isa = PBXBuildFile; fileRef = A6FC162A1C0306A7004A8FD6 /* Character.m */; settings = {ASSET_TAGS = (); }; };
+		A6FC16301C030722004A8FD6 /* List.plist in Resources */ = {isa = PBXBuildFile; fileRef = A6FC162F1C030722004A8FD6 /* List.plist */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A614B3EC1C0599AC00CB77E6 /* tableViewCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tableViewCard.h; sourceTree = "<group>"; };
+		A614B3ED1C0599AC00CB77E6 /* tableViewCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tableViewCard.m; sourceTree = "<group>"; };
+		A614B3EF1C059CEF00CB77E6 /* DetailCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailCard.h; sourceTree = "<group>"; };
+		A614B3F01C059CEF00CB77E6 /* DetailCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailCard.m; sourceTree = "<group>"; };
+		A6D1ADB21C0312A2005508CB /* darkmagician0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = darkmagician0.jpg; sourceTree = "<group>"; };
+		A6D1ADB31C0312A2005508CB /* blueeyeswhitedragon0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blueeyeswhitedragon0.jpg; sourceTree = "<group>"; };
+		A6D1ADB41C0312A2005508CB /* redeyesblackdragon0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = redeyesblackdragon0.jpg; sourceTree = "<group>"; };
+		A6D1ADB51C0312A2005508CB /* thewingeddragonofra0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thewingeddragonofra0.jpg; sourceTree = "<group>"; };
+		A6D1ADB61C0312A2005508CB /* obeliskthetormentor0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = obeliskthetormentor0.jpg; sourceTree = "<group>"; };
+		A6D1ADB71C0312A2005508CB /* slifertheskydragon0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slifertheskydragon0.jpg; sourceTree = "<group>"; };
+		A6D1ADB81C0312A2005508CB /* exodiatheforbidden0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = exodiatheforbidden0.jpg; sourceTree = "<group>"; };
+		A6D1ADB91C0312A2005508CB /* harpielady0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harpielady0.jpg; sourceTree = "<group>"; };
+		A6D1ADC31C031304005508CB /* darkmagician.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = darkmagician.jpg; sourceTree = "<group>"; };
+		A6D1ADC41C031304005508CB /* thewingeddragonofra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thewingeddragonofra.jpg; sourceTree = "<group>"; };
+		A6D1ADC51C031304005508CB /* obeliskthetormentor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = obeliskthetormentor.jpg; sourceTree = "<group>"; };
+		A6D1ADC61C031304005508CB /* harpielady.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harpielady.jpg; sourceTree = "<group>"; };
+		A6D1ADC71C031304005508CB /* blueeyeswhitedragon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blueeyeswhitedragon.jpg; sourceTree = "<group>"; };
+		A6D1ADC81C031304005508CB /* exodiatheforbidden.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = exodiatheforbidden.jpg; sourceTree = "<group>"; };
+		A6D1ADC91C031304005508CB /* redeyesblackdragon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = redeyesblackdragon.jpg; sourceTree = "<group>"; };
+		A6D1ADCA1C031304005508CB /* slifertheskydragon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slifertheskydragon.jpg; sourceTree = "<group>"; };
+		A6DB9F811C04011D00CEBCA8 /* Datamanager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Datamanager.h; sourceTree = "<group>"; };
+		A6DB9F821C04011D00CEBCA8 /* Datamanager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Datamanager.m; sourceTree = "<group>"; };
+		A6DB9F841C04137900CEBCA8 /* Yugioh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Yugioh.jpg; sourceTree = "<group>"; };
+		A6DB9F861C04156900CEBCA8 /* game.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = game.jpg; sourceTree = "<group>"; };
+		A6F7E6D01C041EB500719C52 /* ScrollImages.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScrollImages.h; sourceTree = "<group>"; };
+		A6F7E6D11C041EB500719C52 /* ScrollImages.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScrollImages.m; sourceTree = "<group>"; };
 		A6FC160E1C0305D6004A8FD6 /* YugiohCard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YugiohCard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6FC16121C0305D6004A8FD6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A6FC16141C0305D6004A8FD6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A6FC16151C0305D6004A8FD6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		A6FC16171C0305D6004A8FD6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		A6FC16181C0305D6004A8FD6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		A6FC161B1C0305D6004A8FD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A6FC161D1C0305D6004A8FD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A6FC16201C0305D6004A8FD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6FC16221C0305D6004A8FD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6FC16291C0306A7004A8FD6 /* Character.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Character.h; sourceTree = "<group>"; };
+		A6FC162A1C0306A7004A8FD6 /* Character.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Character.m; sourceTree = "<group>"; };
+		A6FC162F1C030722004A8FD6 /* List.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = List.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +89,52 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A6D1ADB11C031251005508CB /* Photo */ = {
+			isa = PBXGroup;
+			children = (
+				A6DB9F861C04156900CEBCA8 /* game.jpg */,
+				A6DB9F841C04137900CEBCA8 /* Yugioh.jpg */,
+				A6D1ADB21C0312A2005508CB /* darkmagician0.jpg */,
+				A6D1ADB31C0312A2005508CB /* blueeyeswhitedragon0.jpg */,
+				A6D1ADB41C0312A2005508CB /* redeyesblackdragon0.jpg */,
+				A6D1ADB51C0312A2005508CB /* thewingeddragonofra0.jpg */,
+				A6D1ADB61C0312A2005508CB /* obeliskthetormentor0.jpg */,
+				A6D1ADB71C0312A2005508CB /* slifertheskydragon0.jpg */,
+				A6D1ADB81C0312A2005508CB /* exodiatheforbidden0.jpg */,
+				A6D1ADB91C0312A2005508CB /* harpielady0.jpg */,
+			);
+			name = Photo;
+			sourceTree = "<group>";
+		};
+		A6D1ADC21C0312CB005508CB /* Icon */ = {
+			isa = PBXGroup;
+			children = (
+				A6D1ADC31C031304005508CB /* darkmagician.jpg */,
+				A6D1ADC41C031304005508CB /* thewingeddragonofra.jpg */,
+				A6D1ADC51C031304005508CB /* obeliskthetormentor.jpg */,
+				A6D1ADC61C031304005508CB /* harpielady.jpg */,
+				A6D1ADC71C031304005508CB /* blueeyeswhitedragon.jpg */,
+				A6D1ADC81C031304005508CB /* exodiatheforbidden.jpg */,
+				A6D1ADC91C031304005508CB /* redeyesblackdragon.jpg */,
+				A6D1ADCA1C031304005508CB /* slifertheskydragon.jpg */,
+			);
+			name = Icon;
+			sourceTree = "<group>";
+		};
+		A6DB9F881C04170F00CEBCA8 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				A6FC161A1C0305D6004A8FD6 /* Main.storyboard */,
+				A6F7E6D01C041EB500719C52 /* ScrollImages.h */,
+				A6F7E6D11C041EB500719C52 /* ScrollImages.m */,
+				A614B3EC1C0599AC00CB77E6 /* tableViewCard.h */,
+				A614B3ED1C0599AC00CB77E6 /* tableViewCard.m */,
+				A614B3EF1C059CEF00CB77E6 /* DetailCard.h */,
+				A614B3F01C059CEF00CB77E6 /* DetailCard.m */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
 		A6FC16051C0305D6004A8FD6 = {
 			isa = PBXGroup;
 			children = (
@@ -60,9 +156,10 @@
 			children = (
 				A6FC16141C0305D6004A8FD6 /* AppDelegate.h */,
 				A6FC16151C0305D6004A8FD6 /* AppDelegate.m */,
-				A6FC16171C0305D6004A8FD6 /* ViewController.h */,
-				A6FC16181C0305D6004A8FD6 /* ViewController.m */,
-				A6FC161A1C0305D6004A8FD6 /* Main.storyboard */,
+				A6DB9F881C04170F00CEBCA8 /* ViewControllers */,
+				A6D1ADC21C0312CB005508CB /* Icon */,
+				A6D1ADB11C031251005508CB /* Photo */,
+				A6FC16281C03064A004A8FD6 /* Characters */,
 				A6FC161D1C0305D6004A8FD6 /* Assets.xcassets */,
 				A6FC161F1C0305D6004A8FD6 /* LaunchScreen.storyboard */,
 				A6FC16221C0305D6004A8FD6 /* Info.plist */,
@@ -77,6 +174,18 @@
 				A6FC16121C0305D6004A8FD6 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A6FC16281C03064A004A8FD6 /* Characters */ = {
+			isa = PBXGroup;
+			children = (
+				A6FC16291C0306A7004A8FD6 /* Character.h */,
+				A6FC162A1C0306A7004A8FD6 /* Character.m */,
+				A6FC162F1C030722004A8FD6 /* List.plist */,
+				A6DB9F811C04011D00CEBCA8 /* Datamanager.h */,
+				A6DB9F821C04011D00CEBCA8 /* Datamanager.m */,
+			);
+			name = Characters;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,9 +246,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6D1ADCE1C031304005508CB /* harpielady.jpg in Resources */,
+				A6D1ADBF1C0312A2005508CB /* slifertheskydragon0.jpg in Resources */,
+				A6FC16301C030722004A8FD6 /* List.plist in Resources */,
+				A6D1ADBD1C0312A2005508CB /* thewingeddragonofra0.jpg in Resources */,
+				A6D1ADC01C0312A2005508CB /* exodiatheforbidden0.jpg in Resources */,
+				A6D1ADBA1C0312A2005508CB /* darkmagician0.jpg in Resources */,
+				A6D1ADCD1C031304005508CB /* obeliskthetormentor.jpg in Resources */,
+				A6D1ADBE1C0312A2005508CB /* obeliskthetormentor0.jpg in Resources */,
+				A6D1ADCB1C031304005508CB /* darkmagician.jpg in Resources */,
+				A6DB9F851C04137900CEBCA8 /* Yugioh.jpg in Resources */,
+				A6D1ADBC1C0312A2005508CB /* redeyesblackdragon0.jpg in Resources */,
+				A6D1ADCF1C031304005508CB /* blueeyeswhitedragon.jpg in Resources */,
 				A6FC16211C0305D6004A8FD6 /* LaunchScreen.storyboard in Resources */,
+				A6D1ADBB1C0312A2005508CB /* blueeyeswhitedragon0.jpg in Resources */,
+				A6D1ADD21C031304005508CB /* slifertheskydragon.jpg in Resources */,
+				A6D1ADC11C0312A2005508CB /* harpielady0.jpg in Resources */,
 				A6FC161E1C0305D6004A8FD6 /* Assets.xcassets in Resources */,
+				A6D1ADD01C031304005508CB /* exodiatheforbidden.jpg in Resources */,
+				A6D1ADD11C031304005508CB /* redeyesblackdragon.jpg in Resources */,
+				A6D1ADCC1C031304005508CB /* thewingeddragonofra.jpg in Resources */,
 				A6FC161C1C0305D6004A8FD6 /* Main.storyboard in Resources */,
+				A6DB9F871C04156900CEBCA8 /* game.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,9 +278,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6FC16191C0305D6004A8FD6 /* ViewController.m in Sources */,
+				A6DB9F831C04011D00CEBCA8 /* Datamanager.m in Sources */,
+				A614B3F11C059CEF00CB77E6 /* DetailCard.m in Sources */,
+				A6F7E6D21C041EB500719C52 /* ScrollImages.m in Sources */,
 				A6FC16161C0305D6004A8FD6 /* AppDelegate.m in Sources */,
 				A6FC16131C0305D6004A8FD6 /* main.m in Sources */,
+				A6FC162B1C0306A7004A8FD6 /* Character.m in Sources */,
+				A614B3EE1C0599AC00CB77E6 /* tableViewCard.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +431,7 @@
 				A6FC16271C0305D6004A8FD6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
